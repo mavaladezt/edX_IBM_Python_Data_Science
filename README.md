@@ -1,8 +1,8 @@
 ## Problem Statement
 
-#=================================
-#I made this project as soon as I learned how to program in python. A lot of the code is inefficient since I didn't knew a lot of functions, numpy and pandas.
-#=================================
+#=================================<br>
+#I made this project as soon as I learned how to program in python. A lot of the code is inefficient since I didn't knew a lot of functions, numpy and pandas.<br>
+#=================================<br>
 
 Analyze non-emergency 'Housing and Building' complaints reported to the 311 system in NY.<br>
 __(1) Determine which type of complaint is the most common.<br>
