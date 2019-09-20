@@ -1,7 +1,8 @@
 ## Problem Statement
 
 #=================================<br>
-#I made this project as soon as I learned how to program in python. A lot of the code is inefficient since I didn't knew a lot of functions, numpy and pandas.<br>
+#I made this project as soon as I learned how to program in python.<br>
+#A lot of the code is inefficient since I didn't knew a lot of functions, numpy and pandas.<br>
 #=================================<br>
 
 Analyze non-emergency 'Housing and Building' complaints reported to the 311 system in NY.<br>
